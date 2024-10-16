@@ -16,8 +16,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.naukri.com/code360/profile/Vivek_JIN" target="blank"><img align="center" src="https://th.bing.com/th/id/OIP.9fvnJvP-w6S4i7Lfj9t84wAAAA?w=167&h=180&c=7&r=0&o=5&dpr=1.1&pid=1.7" alt="vivek kumar" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/vivek kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vivek kumar" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/@gamingjin7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@gamingjin7" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/vivek-kumar-979140174/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vivek kumar" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/profile/gamingjin7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@gamingjin7" height="30" width="40" /></a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
